@@ -11,8 +11,8 @@ He works on building fast, secure, and search‑optimized websites for businesse
 
 ## Website
 
-https://yourdomain.com
+https://mo.mix-team.com
 
 ## Portfolio
 
-https://mo.mix-team.com
+https://mo.mix-team.com/portfolio/
